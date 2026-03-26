@@ -1,0 +1,12 @@
+{
+  "name": "edutrack-tools",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "simulate": "npm run build && node dist/simulateData.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
