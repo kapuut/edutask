@@ -1,5 +1,5 @@
 
-# EduTrack - Student Course Management System
+# EduTrack 
 
 ## Ringkasan
 EduTrack adalah aplikasi admin sederhana berbasis Laravel untuk:
